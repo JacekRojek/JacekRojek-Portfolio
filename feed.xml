@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="https://jacekrojek.github.io/JacekRojek-Portfolio//feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.0">Jekyll</generator><link href="https://jacekrojek.github.io/JacekRojek-Portfolio//feed.xml" rel="self" type="application/atom+xml" /><link href="https://jacekrojek.github.io/JacekRojek-Portfolio//" rel="alternate" type="text/html" /><updated>2016-10-14T20:02:57+00:00</updated><id>https://jacekrojek.github.io/JacekRojek-Portfolio///</id><title type="html">Portfolio Jacek Rojek</title><subtitle>WEB DEVELOPER EXPERIENCED IN HTML5, CSS3 + SASS + COMPASS, JAVASCRIPT + JQUERY + EM6. PHP, MYSQL, WORDPRESS, JEKYLL. Games Development with Unity3D with C#</subtitle><author><name>Jacek Rojek</name></author><entry><title type="html">Games</title><link href="https://jacekrojek.github.io/JacekRojek-Portfolio//2016/10/13/2016-8-21-games.html" rel="alternate" type="text/html" title="Games" /><published>2016-10-13T00:00:00+00:00</published><updated>2016-10-13T00:00:00+00:00</updated><id>https://jacekrojek.github.io/JacekRojek-Portfolio//2016/10/13/2016-8-21-games</id><content type="html" xml:base="https://jacekrojek.github.io/JacekRojek-Portfolio//2016/10/13/2016-8-21-games.html">&lt;hr /&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="https://jacekrojek.github.io/JacekRojek-Portfolio//feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.0">Jekyll</generator><link href="https://jacekrojek.github.io/JacekRojek-Portfolio//feed.xml" rel="self" type="application/atom+xml" /><link href="https://jacekrojek.github.io/JacekRojek-Portfolio//" rel="alternate" type="text/html" /><updated>2016-10-14T20:40:08+00:00</updated><id>https://jacekrojek.github.io/JacekRojek-Portfolio///</id><title type="html">Portfolio Jacek Rojek</title><subtitle>WEB DEVELOPER EXPERIENCED IN HTML5, CSS3 + SASS + COMPASS, JAVASCRIPT + JQUERY + EM6. PHP, MYSQL, WORDPRESS, JEKYLL. Games Development with Unity3D with C#</subtitle><author><name>Jacek Rojek</name></author><entry><title type="html">Games</title><link href="https://jacekrojek.github.io/JacekRojek-Portfolio//2016/10/13/2016-8-21-games.html" rel="alternate" type="text/html" title="Games" /><published>2016-10-13T00:00:00+00:00</published><updated>2016-10-13T00:00:00+00:00</updated><id>https://jacekrojek.github.io/JacekRojek-Portfolio//2016/10/13/2016-8-21-games</id><content type="html" xml:base="https://jacekrojek.github.io/JacekRojek-Portfolio//2016/10/13/2016-8-21-games.html">&lt;hr /&gt;
 &lt;!-- Banner --&gt;
 &lt;!-- Note: The &quot;styleN&quot; class below should match that of the header element. --&gt;
 &lt;section id=&quot;banner&quot; class=&quot;style2&quot;&gt;
@@ -57,10 +57,7 @@
 &lt;!-- Three --&gt;
 
 
-&lt;/div&gt;
-&lt;p&gt;In recent years I’ve been developing games in Unity.&lt;/p&gt;
-
-&lt;p&gt;You can play the demo of my new award wining 2D space RPG on &lt;a href=&quot;https://indiedevart.itch.io/vemdalen&quot; title=&quot;Game&quot;&gt;ITCH.IO&lt;/a&gt;&lt;/p&gt;</content><author><name>Jacek Rojek</name></author><summary type="html">Games
+&lt;/div&gt;</content><author><name>Jacek Rojek</name></author><summary type="html">Games
 		
 		
 			Games Made in Unity3D</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://jacekrojek.github.io/JacekRojek-Portfolio//assets/images/Unity_bg_coding.png" /></entry><entry><title type="html">Blog</title><link href="https://jacekrojek.github.io/JacekRojek-Portfolio//2016/10/13/2016-8-21-blog.html" rel="alternate" type="text/html" title="Blog" /><published>2016-10-13T00:00:00+00:00</published><updated>2016-10-13T00:00:00+00:00</updated><id>https://jacekrojek.github.io/JacekRojek-Portfolio//2016/10/13/2016-8-21-blog</id><content type="html" xml:base="https://jacekrojek.github.io/JacekRojek-Portfolio//2016/10/13/2016-8-21-blog.html">&lt;!-- Banner --&gt;
@@ -110,8 +107,9 @@
     &lt;/li&gt;
   &lt;li&gt;  Books Reviews&lt;/li&gt;
   &lt;li&gt;  Mathematics&lt;/li&gt;
-	&amp;lt;/div&amp;gt;
-&amp;lt;/section&amp;gt;
+	&lt;/ul&gt;
+	&lt;/div&gt;
+&lt;/section&gt;
 
 &lt;!-- Two --&gt;
 &lt;section id=&quot;two&quot; class=&quot;spotlights&quot;&gt;
@@ -149,7 +147,7 @@
 	&lt;/section&gt;
 	&lt;section&gt;
 		&lt;a href=&quot;#&quot; class=&quot;image&quot;&gt;
-			&lt;img src=&quot;assets/images/wpo.png&quot; alt=&quot;&quot; data-position=&quot;top center&quot; /&gt;
+			&lt;img src=&quot;assets/images/wp.png&quot; alt=&quot;&quot; data-position=&quot;top center&quot; /&gt;
 		&lt;/a&gt;
 		&lt;div class=&quot;content&quot;&gt;
 			&lt;div class=&quot;inner&quot;&gt;
@@ -167,8 +165,7 @@
 &lt;/section&gt;
 
 
-&amp;lt;/div&amp;gt;
-&lt;/ul&gt;&lt;/div&gt;&lt;/section&gt;&lt;/div&gt;</content><author><name>Jacek Rojek</name></author><summary type="html">Blog
+&lt;/div&gt;</content><author><name>Jacek Rojek</name></author><summary type="html">Blog
 		
 		
 			Blog with C# and Unity3D tutorials</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://jacekrojek.github.io/JacekRojek-Portfolio//assets/images/typing_machine_WP_logo.png" /></entry><entry><title type="html">Technologies</title><link href="https://jacekrojek.github.io/JacekRojek-Portfolio//2016/10/13/2016-8-21-Technologies.html" rel="alternate" type="text/html" title="Technologies" /><published>2016-10-13T00:00:00+00:00</published><updated>2016-10-13T00:00:00+00:00</updated><id>https://jacekrojek.github.io/JacekRojek-Portfolio//2016/10/13/2016-8-21-Technologies</id><content type="html" xml:base="https://jacekrojek.github.io/JacekRojek-Portfolio//2016/10/13/2016-8-21-Technologies.html">&lt;!-- Banner --&gt;
@@ -227,14 +224,14 @@
       &lt;li&gt; ASP.NET&lt;/li&gt;
       &lt;li&gt; C#&lt;/li&gt;
       &lt;li&gt; WAMP&lt;/li&gt;
-      &lt;li&gt;Ruby&lt;li&gt;
-        &amp;lt;/ul&amp;gt;
-			&amp;lt;/div&amp;gt;
-		&amp;lt;/div&amp;gt;
-	&amp;lt;/section&amp;gt;
+      &lt;li&gt;Ruby&lt;/li&gt;
+        &lt;/ul&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/section&gt;
 	&lt;section&gt;
 		&lt;a href=&quot;#&quot; class=&quot;image&quot;&gt;
-			&lt;img src=&quot;assets/images/poli.png&quot; alt=&quot;&quot; data-position=&quot;top center&quot; /&gt;
+			&lt;img src=&quot;assets/images/other.png&quot; alt=&quot;&quot; data-position=&quot;top center&quot; /&gt;
 		&lt;/a&gt;
 		&lt;div class=&quot;content&quot;&gt;
 			&lt;div class=&quot;inner&quot;&gt;
@@ -252,11 +249,10 @@
 		&lt;/div&gt;
 	&lt;/section&gt;
 
-&amp;lt;/section&amp;gt;
+&lt;/section&gt;
 
 
-&amp;lt;/div&amp;gt;
-&lt;/li&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;/section&gt;&lt;/div&gt;</content><author><name>Jacek Rojek</name></author><summary type="html">Technologies
+&lt;/div&gt;</content><author><name>Jacek Rojek</name></author><summary type="html">Technologies
 		
 		
 			List of technologies</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://jacekrojek.github.io/JacekRojek-Portfolio//assets/images/tech.png" /></entry><entry><title type="html">Projects</title><link href="https://jacekrojek.github.io/JacekRojek-Portfolio//2016/10/13/2016-8-21-Projects.html" rel="alternate" type="text/html" title="Projects" /><published>2016-10-13T00:00:00+00:00</published><updated>2016-10-13T00:00:00+00:00</updated><id>https://jacekrojek.github.io/JacekRojek-Portfolio//2016/10/13/2016-8-21-Projects</id><content type="html" xml:base="https://jacekrojek.github.io/JacekRojek-Portfolio//2016/10/13/2016-8-21-Projects.html">&lt;!-- Banner --&gt;
