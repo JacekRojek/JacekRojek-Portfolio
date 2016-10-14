@@ -1,63 +1,355 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="https://jacekrojek.github.io//JacekRojek-Portfolio/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.0">Jekyll</generator><link href="https://jacekrojek.github.io//JacekRojek-Portfolio/feed.xml" rel="self" type="application/atom+xml" /><link href="https://jacekrojek.github.io//JacekRojek-Portfolio/" rel="alternate" type="text/html" /><updated>2016-10-13T22:19:20+00:00</updated><id>https://jacekrojek.github.io//JacekRojek-Portfolio//</id><title type="html">Portfolio Jacek Rojek</title><subtitle>WEB DEVELOPER EXPERIENCED IN HTML5, CSS3 + SASS + COMPASS, JAVASCRIPT + JQUERY + EM6. PHP, MYSQL, WORDPRESS, JEKYLL. Games Development with Unity3D with C#</subtitle><author><name>Jacek Rojek</name></author><entry><title type="html">Games</title><link href="https://jacekrojek.github.io//JacekRojek-Portfolio/2016/10/13/2016-8-21-games.html" rel="alternate" type="text/html" title="Games" /><published>2016-10-13T00:00:00+00:00</published><updated>2016-10-13T00:00:00+00:00</updated><id>https://jacekrojek.github.io//JacekRojek-Portfolio/2016/10/13/2016-8-21-games</id><content type="html" xml:base="https://jacekrojek.github.io//JacekRojek-Portfolio/2016/10/13/2016-8-21-games.html">&lt;p&gt;In recent years I’ve been developing games in Unity.&lt;/p&gt;
-
-&lt;p&gt;You can play the demo of my new award wining 2D space RPG on &lt;a href=&quot;https://indiedevart.itch.io/vemdalen&quot; title=&quot;Game&quot;&gt;ITCH.IO&lt;/a&gt;&lt;/p&gt;</content><author><name>Jacek Rojek</name></author><summary type="html">In recent years I’ve been developing games in Unity.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://jacekrojek.github.io//JacekRojek-Portfolio/assets/images/Unity_bg_coding.png" /></entry><entry><title type="html">Blog</title><link href="https://jacekrojek.github.io//JacekRojek-Portfolio/2016/10/13/2016-8-21-blog.html" rel="alternate" type="text/html" title="Blog" /><published>2016-10-13T00:00:00+00:00</published><updated>2016-10-13T00:00:00+00:00</updated><id>https://jacekrojek.github.io//JacekRojek-Portfolio/2016/10/13/2016-8-21-blog</id><content type="html" xml:base="https://jacekrojek.github.io//JacekRojek-Portfolio/2016/10/13/2016-8-21-blog.html">&lt;p&gt;&lt;a href=&quot;https://indiedevart.wordpress.com/&quot; title=&quot;My Blog&quot;&gt;IndieDevArt&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;On my blog I’m writing about development in C# language and Unity3D.
-I cover topics like:
-C#:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Design patterns&lt;/li&gt;
-  &lt;li&gt;Object Oriented Programming&lt;/li&gt;
-  &lt;li&gt;Events and delegates&lt;/li&gt;
-  &lt;li&gt;Data structures&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Unity3D:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;JSON integration&lt;/li&gt;
-  &lt;li&gt;Coroutines&lt;/li&gt;
-  &lt;li&gt;System of Achievements&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Books Reviews
-Mathematics&lt;/p&gt;</content><author><name>Jacek Rojek</name></author><summary type="html">IndieDevArt</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://jacekrojek.github.io//JacekRojek-Portfolio/assets/images/typing_machine_WP_logo.png" /></entry><entry><title type="html">Technologies</title><link href="https://jacekrojek.github.io//JacekRojek-Portfolio/2016/10/13/2016-8-21-Technologies.html" rel="alternate" type="text/html" title="Technologies" /><published>2016-10-13T00:00:00+00:00</published><updated>2016-10-13T00:00:00+00:00</updated><id>https://jacekrojek.github.io//JacekRojek-Portfolio/2016/10/13/2016-8-21-Technologies</id><content type="html" xml:base="https://jacekrojek.github.io//JacekRojek-Portfolio/2016/10/13/2016-8-21-Technologies.html">&lt;p&gt;Web Development:
-ASP.NET
-C#
-GitHub
-Front End:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;HTML5/Markdown&lt;/li&gt;
-  &lt;li&gt;CSS3 + SASS + Compass&lt;/li&gt;
-  &lt;li&gt;JavaScript/ES6 + jQuery&lt;/li&gt;
-  &lt;li&gt;Responsive design with Bootstrap&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Back End:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;PHP&lt;/li&gt;
-  &lt;li&gt;MySQL&lt;/li&gt;
-  &lt;li&gt;Apache&lt;/li&gt;
-  &lt;li&gt;WAMP&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Jacek Rojek</name></author><summary type="html">Web Development:
-ASP.NET
-C#
-GitHub
-Front End:
-
-  HTML5/Markdown
-  CSS3 + SASS + Compass
-  JavaScript/ES6 + jQuery
-  Responsive design with Bootstrap</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://jacekrojek.github.io//JacekRojek-Portfolio/assets/images/tech.png" /></entry><entry><title type="html">Projects</title><link href="https://jacekrojek.github.io//JacekRojek-Portfolio/2016/10/13/2016-8-21-Projects.html" rel="alternate" type="text/html" title="Projects" /><published>2016-10-13T00:00:00+00:00</published><updated>2016-10-13T00:00:00+00:00</updated><id>https://jacekrojek.github.io//JacekRojek-Portfolio/2016/10/13/2016-8-21-Projects</id><content type="html" xml:base="https://jacekrojek.github.io//JacekRojek-Portfolio/2016/10/13/2016-8-21-Projects.html">&lt;p&gt;List of things I did in the past&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://jacekrojek.github.io/Portfolio/index.html&quot;&gt;Link&lt;/a&gt;&lt;/p&gt;</content><author><name>Jacek Rojek</name></author><summary type="html">List of things I did in the past</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://jacekrojek.github.io//JacekRojek-Portfolio/assets/images/pic03.jpg" /></entry><entry><title type="html">YouTube</title><link href="https://jacekrojek.github.io//JacekRojek-Portfolio/2016/08/21/2016-8-21-youtube.html" rel="alternate" type="text/html" title="YouTube" /><published>2016-08-21T00:00:00+00:00</published><updated>2016-08-21T00:00:00+00:00</updated><id>https://jacekrojek.github.io//JacekRojek-Portfolio/2016/08/21/2016-8-21-youtube</id><content type="html" xml:base="https://jacekrojek.github.io//JacekRojek-Portfolio/2016/08/21/2016-8-21-youtube.html">&lt;p&gt;Work in Progress&lt;/p&gt;</content><author><name>Jacek Rojek</name></author><summary type="html">Work in Progress</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://jacekrojek.github.io//JacekRojek-Portfolio/assets/images/camera.png" /></entry><entry><title type="html">Bio</title><link href="https://jacekrojek.github.io//JacekRojek-Portfolio/2016/08/21/2016-8-21-education.html" rel="alternate" type="text/html" title="Bio" /><published>2016-08-21T00:00:00+00:00</published><updated>2016-08-21T00:00:00+00:00</updated><id>https://jacekrojek.github.io//JacekRojek-Portfolio/2016/08/21/2016-8-21-education</id><content type="html" xml:base="https://jacekrojek.github.io//JacekRojek-Portfolio/2016/08/21/2016-8-21-education.html">&lt;!-- Banner --&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/JacekRojek-Portfolio//feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.0">Jekyll</generator><link href="http://localhost:4000/JacekRojek-Portfolio//feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/JacekRojek-Portfolio//" rel="alternate" type="text/html" /><updated>2016-10-14T19:59:41+00:00</updated><id>http://localhost:4000/JacekRojek-Portfolio///</id><title type="html">Portfolio Jacek Rojek</title><subtitle>WEB DEVELOPER EXPERIENCED IN HTML5, CSS3 + SASS + COMPASS, JAVASCRIPT + JQUERY + EM6. PHP, MYSQL, WORDPRESS, JEKYLL. Games Development with Unity3D with C#</subtitle><author><name>Jacek Rojek</name></author><entry><title type="html">Games</title><link href="http://localhost:4000/JacekRojek-Portfolio//2016/10/13/2016-8-21-games.html" rel="alternate" type="text/html" title="Games" /><published>2016-10-13T00:00:00+00:00</published><updated>2016-10-13T00:00:00+00:00</updated><id>http://localhost:4000/JacekRojek-Portfolio//2016/10/13/2016-8-21-games</id><content type="html" xml:base="http://localhost:4000/JacekRojek-Portfolio//2016/10/13/2016-8-21-games.html">&lt;hr /&gt;
+&lt;!-- Banner --&gt;
 &lt;!-- Note: The &quot;styleN&quot; class below should match that of the header element. --&gt;
 &lt;section id=&quot;banner&quot; class=&quot;style2&quot;&gt;
 	&lt;div class=&quot;inner&quot;&gt;
 		&lt;span class=&quot;image&quot;&gt;
-			&lt;img src=&quot;/JacekRojek-Portfolio/assets/images/bio.png&quot; alt=&quot;&quot; /&gt;
+			&lt;img src=&quot;/JacekRojek-Portfolio//assets/images/Unity_bg_coding.png&quot; alt=&quot;&quot; /&gt;
 		&lt;/span&gt;
 		&lt;header class=&quot;major&quot;&gt;
-			&lt;h1&gt;Biography&lt;/h1&gt;
+			&lt;h1&gt;Games&lt;/h1&gt;
+		&lt;/header&gt;
+		&lt;div class=&quot;content&quot;&gt;
+			&lt;p&gt;Games Made in Unity3D&lt;/p&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/section&gt;
+
+&lt;!-- Main --&gt;
+&lt;div id=&quot;main&quot;&gt;
+
+&lt;!-- One --&gt;
+&lt;section id=&quot;one&quot;&gt;
+	&lt;div class=&quot;inner&quot;&gt;
+		&lt;header class=&quot;major&quot;&gt;
+			&lt;h2&gt;Unity3D&lt;/h2&gt;
+		&lt;/header&gt;
+		&lt;p&gt;In recent years I've been developing games in Unity. &lt;/p&gt;
+    &lt;p&gt;Here you can find examples of my work available online.&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/section&gt;
+
+&lt;!-- Two --&gt;
+&lt;section id=&quot;two&quot; class=&quot;spotlights&quot;&gt;
+	&lt;section&gt;
+		&lt;a href=&quot;#&quot; class=&quot;image&quot;&gt;
+			&lt;img src=&quot;assets/images/game.gif&quot; alt=&quot;&quot; data-position=&quot;center center&quot; /&gt;
+		&lt;/a&gt;
+		&lt;div class=&quot;content&quot;&gt;
+			&lt;div class=&quot;inner&quot;&gt;
+				&lt;header class=&quot;major&quot;&gt;
+					&lt;h3&gt;Space Game&lt;/h3&gt;
+				&lt;/header&gt;
+				&lt;p&gt;Award winning game currently in development. It's a 2D, rogue-like, RPG game in sci-fi setting. Explore the galaxy collapsing after economic crisis. Upgrade and protect your base. Earn power and reputation to defeat your enemies.&lt;/p&gt;
+        &lt;ul&gt;
+          &lt;li&gt;Procedural generation of levels&lt;/li&gt;
+          &lt;li&gt;Player progression system&lt;/li&gt;
+          &lt;li&gt;Inventory, Loot&lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;ul class=&quot;actions&quot;&gt;
+    			&lt;li&gt;&lt;a href=&quot;https://indiedevart.itch.io/vemdalen&quot; class=&quot;button next&quot;&gt;Play&lt;/a&gt;&lt;/li&gt;
+    		&lt;/ul&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/section&gt;
+&lt;/section&gt;
+
+&lt;!-- Three --&gt;
+
+
+&lt;/div&gt;
+&lt;p&gt;In recent years I’ve been developing games in Unity.&lt;/p&gt;
+
+&lt;p&gt;You can play the demo of my new award wining 2D space RPG on &lt;a href=&quot;https://indiedevart.itch.io/vemdalen&quot; title=&quot;Game&quot;&gt;ITCH.IO&lt;/a&gt;&lt;/p&gt;</content><author><name>Jacek Rojek</name></author><summary type="html">Games
+		
+		
+			Games Made in Unity3D</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/JacekRojek-Portfolio//assets/images/Unity_bg_coding.png" /></entry><entry><title type="html">Blog</title><link href="http://localhost:4000/JacekRojek-Portfolio//2016/10/13/2016-8-21-blog.html" rel="alternate" type="text/html" title="Blog" /><published>2016-10-13T00:00:00+00:00</published><updated>2016-10-13T00:00:00+00:00</updated><id>http://localhost:4000/JacekRojek-Portfolio//2016/10/13/2016-8-21-blog</id><content type="html" xml:base="http://localhost:4000/JacekRojek-Portfolio//2016/10/13/2016-8-21-blog.html">&lt;!-- Banner --&gt;
+&lt;!-- Note: The &quot;styleN&quot; class below should match that of the header element. --&gt;
+&lt;section id=&quot;banner&quot; class=&quot;style2&quot;&gt;
+	&lt;div class=&quot;inner&quot;&gt;
+		&lt;span class=&quot;image&quot;&gt;
+			&lt;img src=&quot;/JacekRojek-Portfolio//assets/images/typing_machine_WP_logo.png&quot; alt=&quot;&quot; /&gt;
+		&lt;/span&gt;
+		&lt;header class=&quot;major&quot;&gt;
+			&lt;h1&gt;Blog&lt;/h1&gt;
+		&lt;/header&gt;
+		&lt;div class=&quot;content&quot;&gt;
+			&lt;p&gt;Blog with C# and Unity3D tutorials&lt;/p&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/section&gt;
+
+&lt;!-- Main --&gt;
+&lt;div id=&quot;main&quot;&gt;
+
+&lt;!-- One --&gt;
+&lt;section id=&quot;one&quot;&gt;
+	&lt;div class=&quot;inner&quot;&gt;
+		&lt;header class=&quot;major&quot;&gt;
+			&lt;h2&gt;List of different layouts and hosts I used for my blog&lt;/h2&gt;
+		&lt;/header&gt;
+    &lt;p&gt;Over the recent year I've been actively writing articles about games development and best code practices used in development. &lt;/p&gt;
+    &lt;p&gt;On my blog I'm writing about development in C# language and Unity3D.
+    I cover topics like:&lt;/p&gt;
+    &lt;ul&gt;
+    &lt;li&gt;C#:
+    &lt;ul&gt;
+    &lt;li&gt; Design patterns&lt;/li&gt;
+    &lt;li&gt; Object Oriented Programming&lt;/li&gt;
+    &lt;li&gt; Events and delegates&lt;/li&gt;
+    &lt;li&gt; Data structures&lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;/li&gt;
+
+  &lt;li&gt;  Unity3D:
+  &lt;ul&gt;
+    &lt;li&gt; JSON integration&lt;/li&gt;
+    &lt;li&gt; Coroutines&lt;/li&gt;
+    &lt;li&gt; System of Achievements&lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;/li&gt;
+  &lt;li&gt;  Books Reviews&lt;/li&gt;
+  &lt;li&gt;  Mathematics&lt;/li&gt;
+	&amp;lt;/div&amp;gt;
+&amp;lt;/section&amp;gt;
+
+&lt;!-- Two --&gt;
+&lt;section id=&quot;two&quot; class=&quot;spotlights&quot;&gt;
+	&lt;section&gt;
+		&lt;a href=&quot;#&quot; class=&quot;image&quot;&gt;
+			&lt;img src=&quot;assets/images/wp.png&quot; alt=&quot;&quot; data-position=&quot;center center&quot; /&gt;
+		&lt;/a&gt;
+		&lt;div class=&quot;content&quot;&gt;
+			&lt;div class=&quot;inner&quot;&gt;
+				&lt;header class=&quot;major&quot;&gt;
+					&lt;h3&gt;Wordpress.com&lt;/h3&gt;
+				&lt;/header&gt;
+				&lt;p&gt;Wordpress.com is my main blogging platform, place where I started my adventure as a blogger. During frequent posting I had over 1k visits per week, which I consider a success&lt;/p&gt;
+        &lt;ul class=&quot;actions&quot;&gt;
+          &lt;li&gt;&lt;a href=&quot;https://indiedevart.wordpress.com/&quot; class=&quot;button next&quot;&gt;Visit&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/section&gt;
+  &lt;section&gt;
+		&lt;a href=&quot;#&quot; class=&quot;image&quot;&gt;
+			&lt;img src=&quot;assets/images/jekyll.png&quot; alt=&quot;&quot; data-position=&quot;25% 25%&quot; /&gt;
+		&lt;/a&gt;
+		&lt;div class=&quot;content&quot;&gt;
+			&lt;div class=&quot;inner&quot;&gt;
+				&lt;header class=&quot;major&quot;&gt;
+					&lt;h3&gt;GitHub + Jekyll&lt;/h3&gt;
+				&lt;/header&gt;
+				&lt;p&gt;Here I started using static sites generators. Static websites are fast, simple and secure. &lt;/p&gt;
+        &lt;ul class=&quot;actions&quot;&gt;
+    			&lt;li&gt;&lt;a href=&quot;https://jacekrojek.github.io/JacekRojek/&quot; class=&quot;button next&quot;&gt;Visit&lt;/a&gt;&lt;/li&gt;
+    		&lt;/ul&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/section&gt;
+	&lt;section&gt;
+		&lt;a href=&quot;#&quot; class=&quot;image&quot;&gt;
+			&lt;img src=&quot;assets/images/wpo.png&quot; alt=&quot;&quot; data-position=&quot;top center&quot; /&gt;
+		&lt;/a&gt;
+		&lt;div class=&quot;content&quot;&gt;
+			&lt;div class=&quot;inner&quot;&gt;
+				&lt;header class=&quot;major&quot;&gt;
+					&lt;h3&gt;Wordpress.org&lt;/h3&gt;
+				&lt;/header&gt;
+				&lt;p&gt;Over the recent months I tested all available free hosting services that offer support for Wordpress. Any of them didn't satisfy my needs, but this experience gave me the knowledge about hosting and was starting point for freelancing development with Wordpress.org CMS.&lt;/p&gt;
+        &lt;ul class=&quot;actions&quot;&gt;
+    			&lt;li&gt;&lt;a href=&quot;http://indiedevart.co.nf/&quot; class=&quot;button next&quot;&gt;Visit&lt;/a&gt;&lt;/li&gt;
+    		&lt;/ul&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/section&gt;
+
+&lt;/section&gt;
+
+
+&amp;lt;/div&amp;gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/section&gt;&lt;/div&gt;</content><author><name>Jacek Rojek</name></author><summary type="html">Blog
+		
+		
+			Blog with C# and Unity3D tutorials</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/JacekRojek-Portfolio//assets/images/typing_machine_WP_logo.png" /></entry><entry><title type="html">Technologies</title><link href="http://localhost:4000/JacekRojek-Portfolio//2016/10/13/2016-8-21-Technologies.html" rel="alternate" type="text/html" title="Technologies" /><published>2016-10-13T00:00:00+00:00</published><updated>2016-10-13T00:00:00+00:00</updated><id>http://localhost:4000/JacekRojek-Portfolio//2016/10/13/2016-8-21-Technologies</id><content type="html" xml:base="http://localhost:4000/JacekRojek-Portfolio//2016/10/13/2016-8-21-Technologies.html">&lt;!-- Banner --&gt;
+&lt;!-- Note: The &quot;styleN&quot; class below should match that of the header element. --&gt;
+&lt;section id=&quot;banner&quot; class=&quot;style2&quot;&gt;
+	&lt;div class=&quot;inner&quot;&gt;
+		&lt;span class=&quot;image&quot;&gt;
+			&lt;img src=&quot;/JacekRojek-Portfolio//assets/images/tech.png&quot; alt=&quot;&quot; /&gt;
+		&lt;/span&gt;
+		&lt;header class=&quot;major&quot;&gt;
+			&lt;h1&gt;Technologies&lt;/h1&gt;
+		&lt;/header&gt;
+		&lt;div class=&quot;content&quot;&gt;
+			&lt;p&gt;List of technologies&lt;/p&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/section&gt;
+
+&lt;!-- Main --&gt;
+&lt;div id=&quot;main&quot;&gt;
+
+&lt;!-- Two --&gt;
+&lt;section id=&quot;two&quot; class=&quot;spotlights&quot;&gt;
+	&lt;section&gt;
+		&lt;a href=&quot;#&quot; class=&quot;image&quot;&gt;
+			&lt;img src=&quot;assets/images/fe.png&quot; alt=&quot;&quot; data-position=&quot;center center&quot; /&gt;
+		&lt;/a&gt;
+		&lt;div class=&quot;content&quot;&gt;
+			&lt;div class=&quot;inner&quot;&gt;
+				&lt;header class=&quot;major&quot;&gt;
+					&lt;h3&gt;Front End&lt;/h3&gt;
+				&lt;/header&gt;
+        &lt;ul&gt;
+      &lt;li&gt; HTML5/Markdown &lt;/li&gt;
+      &lt;li&gt; CSS3 + SASS + Compass &lt;/li&gt;
+      &lt;li&gt; JavaScript/ES6 + jQuery ,Node.js, Grunt&lt;/li&gt;
+      &lt;li&gt; Responsive design with Bootstrap &lt;/li&gt;
+      &lt;li&gt; Wordpress &lt;/li&gt;
+      &lt;li&gt; Responsive design with Bootstrap3 &lt;/li&gt;
+        &lt;/ul&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/section&gt;
+  &lt;section&gt;
+		&lt;a href=&quot;#&quot; class=&quot;image&quot;&gt;
+			&lt;img src=&quot;assets/images/be.png&quot; alt=&quot;&quot; data-position=&quot;25% 25%&quot; /&gt;
+		&lt;/a&gt;
+		&lt;div class=&quot;content&quot;&gt;
+			&lt;div class=&quot;inner&quot;&gt;
+				&lt;header class=&quot;major&quot;&gt;
+					&lt;h3&gt;Back End&lt;/h3&gt;
+				&lt;/header&gt;
+        &lt;ul&gt;
+      &lt;li&gt; PHP &lt;/li&gt;
+      &lt;li&gt; MySQL / SQL Server&lt;/li&gt;
+      &lt;li&gt; ASP.NET&lt;/li&gt;
+      &lt;li&gt; C#&lt;/li&gt;
+      &lt;li&gt; WAMP&lt;/li&gt;
+      &lt;li&gt;Ruby&lt;li&gt;
+        &amp;lt;/ul&amp;gt;
+			&amp;lt;/div&amp;gt;
+		&amp;lt;/div&amp;gt;
+	&amp;lt;/section&amp;gt;
+	&lt;section&gt;
+		&lt;a href=&quot;#&quot; class=&quot;image&quot;&gt;
+			&lt;img src=&quot;assets/images/poli.png&quot; alt=&quot;&quot; data-position=&quot;top center&quot; /&gt;
+		&lt;/a&gt;
+		&lt;div class=&quot;content&quot;&gt;
+			&lt;div class=&quot;inner&quot;&gt;
+				&lt;header class=&quot;major&quot;&gt;
+					&lt;h3&gt;Other&lt;/h3&gt;
+				&lt;/header&gt;
+        &lt;ul&gt;
+          &lt;li&gt;GitHub&lt;/li&gt;
+          &lt;li&gt;Unity3D&lt;/li&gt;
+          &lt;li&gt;Photoshop&lt;/li&gt;
+          &lt;li&gt;Favourite text editor - Atom &lt;/li&gt;
+          &lt;li&gt;Favourite IDE - VisualStudio &lt;/li&gt;
+        &lt;/ul&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/section&gt;
+
+&amp;lt;/section&amp;gt;
+
+
+&amp;lt;/div&amp;gt;
+&lt;/li&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;/section&gt;&lt;/div&gt;</content><author><name>Jacek Rojek</name></author><summary type="html">Technologies
+		
+		
+			List of technologies</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/JacekRojek-Portfolio//assets/images/tech.png" /></entry><entry><title type="html">Projects</title><link href="http://localhost:4000/JacekRojek-Portfolio//2016/10/13/2016-8-21-Projects.html" rel="alternate" type="text/html" title="Projects" /><published>2016-10-13T00:00:00+00:00</published><updated>2016-10-13T00:00:00+00:00</updated><id>http://localhost:4000/JacekRojek-Portfolio//2016/10/13/2016-8-21-Projects</id><content type="html" xml:base="http://localhost:4000/JacekRojek-Portfolio//2016/10/13/2016-8-21-Projects.html">&lt;!-- Banner --&gt;
+&lt;!-- Note: The &quot;styleN&quot; class below should match that of the header element. --&gt;
+&lt;section id=&quot;banner&quot; class=&quot;style2&quot;&gt;
+	&lt;div class=&quot;inner&quot;&gt;
+		&lt;span class=&quot;image&quot;&gt;
+			&lt;img src=&quot;/JacekRojek-Portfolio//assets/images/pic03.jpg&quot; alt=&quot;&quot; /&gt;
+		&lt;/span&gt;
+		&lt;header class=&quot;major&quot;&gt;
+			&lt;h1&gt;Projects&lt;/h1&gt;
+		&lt;/header&gt;
+		&lt;div class=&quot;content&quot;&gt;
+			&lt;p&gt;List of my Projects&lt;/p&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/section&gt;
+
+&lt;!-- Main --&gt;
+&lt;div id=&quot;main&quot;&gt;
+
+&lt;!-- One --&gt;
+&lt;section id=&quot;one&quot;&gt;
+	&lt;div class=&quot;inner&quot;&gt;
+		&lt;header class=&quot;major&quot;&gt;
+			&lt;h2&gt;Recent Projects&lt;/h2&gt;
+		&lt;/header&gt;
+		&lt;p&gt;List of projects will be updated soon. You can find my old portfolio with list of some projects under this link &lt;/p&gt;
+    &lt;ul class=&quot;actions&quot;&gt;
+			&lt;li&gt;&lt;a href=&quot;https://jacekrojek.github.io/Portfolio/index.html&quot; class=&quot;button next&quot;&gt;Visit Portfolio&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;
+	&lt;/div&gt;
+&lt;/section&gt;
+&lt;/div&gt;</content><author><name>Jacek Rojek</name></author><summary type="html">Projects
+		
+		
+			List of my Projects</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/JacekRojek-Portfolio//assets/images/pic03.jpg" /></entry><entry><title type="html">YouTube</title><link href="http://localhost:4000/JacekRojek-Portfolio//2016/08/21/2016-8-21-youtube.html" rel="alternate" type="text/html" title="YouTube" /><published>2016-08-21T00:00:00+00:00</published><updated>2016-08-21T00:00:00+00:00</updated><id>http://localhost:4000/JacekRojek-Portfolio//2016/08/21/2016-8-21-youtube</id><content type="html" xml:base="http://localhost:4000/JacekRojek-Portfolio//2016/08/21/2016-8-21-youtube.html">&lt;hr /&gt;
+&lt;!-- Banner --&gt;
+&lt;!-- Note: The &quot;styleN&quot; class below should match that of the header element. --&gt;
+&lt;section id=&quot;banner&quot; class=&quot;style2&quot;&gt;
+	&lt;div class=&quot;inner&quot;&gt;
+		&lt;span class=&quot;image&quot;&gt;
+			&lt;img src=&quot;/JacekRojek-Portfolio//assets/images/camera.png&quot; alt=&quot;&quot; /&gt;
+		&lt;/span&gt;
+		&lt;header class=&quot;major&quot;&gt;
+			&lt;h1&gt;YouTube&lt;/h1&gt;
+		&lt;/header&gt;
+		&lt;div class=&quot;content&quot;&gt;
+			&lt;p&gt;My YouTube Chanel&lt;/p&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/section&gt;
+
+&lt;!-- Main --&gt;
+&lt;div id=&quot;main&quot;&gt;
+
+
+
+&lt;!-- Two --&gt;
+&lt;section id=&quot;two&quot; class=&quot;spotlights&quot;&gt;
+	&lt;section&gt;
+		&lt;a href=&quot;#&quot; class=&quot;image&quot;&gt;
+			&lt;img src=&quot;assets/images/cameras.png&quot; alt=&quot;&quot; data-position=&quot;center center&quot; /&gt;
+		&lt;/a&gt;
+		&lt;div class=&quot;content&quot;&gt;
+			&lt;div class=&quot;inner&quot;&gt;
+				&lt;header class=&quot;major&quot;&gt;
+					&lt;h3&gt;YouTube channel&lt;/h3&gt;
+				&lt;/header&gt;
+				&lt;p&gt;Work in progress. Link available soon&lt;/p&gt;
+        &lt;ul class=&quot;actions&quot;&gt;
+          &lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;button next&quot;&gt;Youtube&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/section&gt;
+
+&lt;/section&gt;
+
+
+
+&lt;/div&gt;</content><author><name>Jacek Rojek</name></author><summary type="html">YouTube
+		
+		
+			My YouTube Chanel</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/JacekRojek-Portfolio//assets/images/camera.png" /></entry><entry><title type="html">Bio</title><link href="http://localhost:4000/JacekRojek-Portfolio//2016/08/21/2016-8-21-education.html" rel="alternate" type="text/html" title="Bio" /><published>2016-08-21T00:00:00+00:00</published><updated>2016-08-21T00:00:00+00:00</updated><id>http://localhost:4000/JacekRojek-Portfolio//2016/08/21/2016-8-21-education</id><content type="html" xml:base="http://localhost:4000/JacekRojek-Portfolio//2016/08/21/2016-8-21-education.html">&lt;!-- Banner --&gt;
+&lt;!-- Note: The &quot;styleN&quot; class below should match that of the header element. --&gt;
+&lt;section id=&quot;banner&quot; class=&quot;style2&quot;&gt;
+	&lt;div class=&quot;inner&quot;&gt;
+		&lt;span class=&quot;image&quot;&gt;
+			&lt;img src=&quot;/JacekRojek-Portfolio//assets/images/bio.png&quot; alt=&quot;&quot; /&gt;
+		&lt;/span&gt;
+		&lt;header class=&quot;major&quot;&gt;
+			&lt;h1&gt;Bio&lt;/h1&gt;
 		&lt;/header&gt;
 		&lt;div class=&quot;content&quot;&gt;
 			&lt;p&gt;History of Work and Education&lt;/p&gt;
@@ -72,81 +364,70 @@ Front End:
 &lt;section id=&quot;one&quot;&gt;
 	&lt;div class=&quot;inner&quot;&gt;
 		&lt;header class=&quot;major&quot;&gt;
-			&lt;h2&gt;Sed amet aliquam&lt;/h2&gt;
+			&lt;h2&gt;Work: Freelancing&lt;/h2&gt;
 		&lt;/header&gt;
-		&lt;p&gt;Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.&lt;/p&gt;
+		&lt;p&gt;I know how to turn a Website Idea into a Reality by implementing Wordpress CMS creating child themes by modifying PHP code. For special clients I write custom themes from scratch.  &lt;/p&gt;
+    &lt;p&gt;I'm open for consulting sessions where I can help fix all kind of issues with web development and Unity3D development.&lt;/p&gt;
 	&lt;/div&gt;
 &lt;/section&gt;
 
 &lt;!-- Two --&gt;
 &lt;section id=&quot;two&quot; class=&quot;spotlights&quot;&gt;
 	&lt;section&gt;
-		&lt;a href=&quot;generic.html&quot; class=&quot;image&quot;&gt;
-			&lt;img src=&quot;assets/images/pic08.jpg&quot; alt=&quot;&quot; data-position=&quot;center center&quot; /&gt;
+		&lt;a href=&quot;#&quot; class=&quot;image&quot;&gt;
+			&lt;img src=&quot;assets/images/lcc2.png&quot; alt=&quot;&quot; data-position=&quot;center center&quot; /&gt;
 		&lt;/a&gt;
 		&lt;div class=&quot;content&quot;&gt;
 			&lt;div class=&quot;inner&quot;&gt;
 				&lt;header class=&quot;major&quot;&gt;
-					&lt;h3&gt;Orci maecenas&lt;/h3&gt;
+					&lt;h3&gt;Leeds City College&lt;/h3&gt;
 				&lt;/header&gt;
-				&lt;p&gt;Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.&lt;/p&gt;
-				&lt;ul class=&quot;actions&quot;&gt;
-					&lt;li&gt;&lt;a href=&quot;generic.html&quot; class=&quot;button&quot;&gt;Learn more&lt;/a&gt;&lt;/li&gt;
-				&lt;/ul&gt;
+				&lt;p&gt;I graduated from IT programming course with distinctions in all subjects and won the award for best game of the year&lt;/p&gt;
+        &lt;p&gt;Main subjects&lt;/p&gt;
+        &lt;ul&gt;
+          &lt;li&gt;C++ Programming&lt;/li&gt;
+          &lt;li&gt;Web Development&lt;/li&gt;
+          &lt;li&gt;Network Architecture&lt;/li&gt;
+        &lt;/ul&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/section&gt;
+  &lt;section&gt;
+		&lt;a href=&quot;#&quot; class=&quot;image&quot;&gt;
+			&lt;img src=&quot;assets/images/techn.png&quot; alt=&quot;&quot; data-position=&quot;25% 25%&quot; /&gt;
+		&lt;/a&gt;
+		&lt;div class=&quot;content&quot;&gt;
+			&lt;div class=&quot;inner&quot;&gt;
+				&lt;header class=&quot;major&quot;&gt;
+					&lt;h3&gt;Work: Technician&lt;/h3&gt;
+				&lt;/header&gt;
+				&lt;p&gt;For summer period I worked as a technician in phone shop. Where I was responsible for diagnosing and fixing hardware and software of phones and computers&lt;/p&gt;
 			&lt;/div&gt;
 		&lt;/div&gt;
 	&lt;/section&gt;
 	&lt;section&gt;
-		&lt;a href=&quot;generic.html&quot; class=&quot;image&quot;&gt;
-			&lt;img src=&quot;assets/images/pic09.jpg&quot; alt=&quot;&quot; data-position=&quot;top center&quot; /&gt;
+		&lt;a href=&quot;#&quot; class=&quot;image&quot;&gt;
+			&lt;img src=&quot;assets/images/poli.png&quot; alt=&quot;&quot; data-position=&quot;top center&quot; /&gt;
 		&lt;/a&gt;
 		&lt;div class=&quot;content&quot;&gt;
 			&lt;div class=&quot;inner&quot;&gt;
 				&lt;header class=&quot;major&quot;&gt;
-					&lt;h3&gt;Rhoncus magna&lt;/h3&gt;
+					&lt;h3&gt;Warsaw University of Technology&lt;/h3&gt;
 				&lt;/header&gt;
-				&lt;p&gt;Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.&lt;/p&gt;
-				&lt;ul class=&quot;actions&quot;&gt;
-					&lt;li&gt;&lt;a href=&quot;generic.html&quot; class=&quot;button&quot;&gt;Learn more&lt;/a&gt;&lt;/li&gt;
-				&lt;/ul&gt;
+				&lt;p&gt;I studied Engineering with specialization in robotics. I didn't complete the last year from personal reasons&lt;/p&gt;
+        &lt;p&gt;Main subjects&lt;/p&gt;
+        &lt;ul&gt;
+          &lt;li&gt;C++ Programming&lt;/li&gt;
+          &lt;li&gt;Data analyst&lt;/li&gt;
+          &lt;li&gt;Electronics&lt;/li&gt;
+        &lt;/ul&gt;
 			&lt;/div&gt;
 		&lt;/div&gt;
 	&lt;/section&gt;
-	&lt;section&gt;
-		&lt;a href=&quot;generic.html&quot; class=&quot;image&quot;&gt;
-			&lt;img src=&quot;assets/images/pic10.jpg&quot; alt=&quot;&quot; data-position=&quot;25% 25%&quot; /&gt;
-		&lt;/a&gt;
-		&lt;div class=&quot;content&quot;&gt;
-			&lt;div class=&quot;inner&quot;&gt;
-				&lt;header class=&quot;major&quot;&gt;
-					&lt;h3&gt;Sed nunc ligula&lt;/h3&gt;
-				&lt;/header&gt;
-				&lt;p&gt;Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.&lt;/p&gt;
-				&lt;ul class=&quot;actions&quot;&gt;
-					&lt;li&gt;&lt;a href=&quot;generic.html&quot; class=&quot;button&quot;&gt;Learn more&lt;/a&gt;&lt;/li&gt;
-				&lt;/ul&gt;
-			&lt;/div&gt;
-		&lt;/div&gt;
-	&lt;/section&gt;
+
 &lt;/section&gt;
 
-&lt;!-- Three --&gt;
-&lt;section id=&quot;three&quot;&gt;
-	&lt;div class=&quot;inner&quot;&gt;
-		&lt;header class=&quot;major&quot;&gt;
-			&lt;h2&gt;Massa libero&lt;/h2&gt;
-		&lt;/header&gt;
-		&lt;p&gt;Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.&lt;/p&gt;
-		&lt;ul class=&quot;actions&quot;&gt;
-			&lt;li&gt;&lt;a href=&quot;generic.html&quot; class=&quot;button next&quot;&gt;Get Started&lt;/a&gt;&lt;/li&gt;
-		&lt;/ul&gt;
-	&lt;/div&gt;
-&lt;/section&gt;
-
-&lt;/div&gt;
-&lt;p&gt;2016-Freelancing
-2016-Leeds City College (IT/Programming)
-2012-2014 - Warsaw University of Technology - Undergraduate in Robotics(not completed)&lt;/p&gt;</content><author><name>Jacek Rojek</name></author><summary type="html">Biography
+&lt;/div&gt;</content><author><name>Jacek Rojek</name></author><summary type="html">Bio
 		
 		
-			History of Work and Education</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://jacekrojek.github.io//JacekRojek-Portfolio/assets/images/bio.png" /></entry></feed>
+			History of Work and Education</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/JacekRojek-Portfolio//assets/images/bio.png" /></entry></feed>
